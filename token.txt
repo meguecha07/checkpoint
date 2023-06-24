@@ -1,7 +1,7 @@
 
 token checkpoint
 
-- Token Melissa Guerra: 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
+Token Melissa Guerra: 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
 - Token Juan Linares: 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
 - Token Silvia Rodriguez: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
 
